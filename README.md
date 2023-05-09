@@ -2,7 +2,7 @@
 
 # 🌍 BrowserMDA - 浏览器互助发展联盟
 
-### [👉 BrowserMDA（浏览器互助发展联盟）官方网站](https://browsermda.org)
+### [👉 BrowserMDA（浏览器互助发展联盟）官方网站](https://www.browsermda.org/)
 
 ### 聚拢影响力，互帮互助
 
